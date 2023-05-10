@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button-primary {
+
+
+  @apply bg-[#E3B577] text-sm px-2 border border-black
+}
